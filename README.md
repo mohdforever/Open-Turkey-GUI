@@ -2,6 +2,9 @@
 
 refer to https://github.com/bdcdo/open-turkey/tree/master
 
+git clone https://github.com/bdcdo/open-turkey.git
+
+
 A command-line productivity blocker for Linux, backed by a `systemd` service.
 
 Open Turkey is an open-source, Linux-native alternative to [Cold Turkey](https://getcoldturkey.com/): it blocks distracting websites and applications and keeps them blocked, even against your own attempts to undo it on impulse. Where Cold Turkey is paid and centered on Windows/macOS, Open Turkey is free, built in Go, and designed around the way Linux actually enforces policy.
